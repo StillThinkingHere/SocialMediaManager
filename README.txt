@@ -1,4 +1,4 @@
-#SocialMediaManager
+# SocialMediaManager
 
 This is a all in one Socialmedia Managment app, the front-end it created in c++ and the backend is created in c++, c, java and javascript. This uses http requsts and API's to publish posts and to review data of these post across all platfroms. 
 
