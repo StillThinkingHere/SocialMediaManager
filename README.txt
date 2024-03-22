@@ -1,4 +1,4 @@
-#Cancellation Notice:
+# Cancellation Notice:
 
 We are canceling the Social Media Manager (SMM) project for several reasons, which will be disclosed at a later date if necessary. All plans to release Alpha/Beta and Official Releases are being canceled. This decision may never be reversed for specific reasons, but do not hold your breath because it will not happen soon. Visit our GitHub Main page to see all of your projects (none are active as of March 22, 2024) and follow us to see our future ideas!
 
